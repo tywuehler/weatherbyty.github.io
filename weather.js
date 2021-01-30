@@ -52,12 +52,12 @@ var FORECAST = 2;
 var PICTURE = 3;
 var NOTE = 4;
 
-var weekof = 'January 27-31';
-var monday = [ 49, 47, 'Showers', RAIN_SHOWERS[FLATLINE], 'Rain turning Cloudy'];
-var tuesday = [ 52, 44, 'Showers', RAIN_SHOWERS[FLATLINE], 'Shower chance'];
-var wednesday = [ 53, 45, 'Rain', RAIN_HEAVY[FLATLINE], 'Showers Late'];
-var thursday = [ 55, 46, 'Shower chance', RAIN[FLATLINE], 'Wet'];
-var friday = [ 51, 47, 'Rain', RAIN_SHOWERS[FLATLINE], 'Wet Weekend...'];
+var weekof = 'Feburary 1-5';
+var monday = [ 49, 40, 'Rainy day', RAIN_HEAVY[FLATLINE], 'Showers'];
+var tuesday = [ 50, 39, 'Some Showers', RAIN_SHOWERS[FLATLINE], 'Showers after midnight'];
+var wednesday = [ 47, 37, 'Cloudy day', CLOUDY[FLATLINE], 'On and Off Rain'];
+var thursday = [ 48, 36, 'Showers', RAIN_SHOWERS[FLATLINE], 'Cloudy then Clear'];
+var friday = [ 49, 33, 'Sun and Clouds', CLOUDY_PARTLY[FLATLINE], 'Cold weekend...'];
 
 
 
